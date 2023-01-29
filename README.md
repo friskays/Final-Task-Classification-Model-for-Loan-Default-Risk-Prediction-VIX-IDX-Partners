@@ -16,9 +16,9 @@ Objective :
 
 
 # Top Insight 
-![image](https://user-images.githubusercontent.com/114457985/215334188-8728b914-f4f1-47e3-80ea-e44a22f74fba.png)
-![image](https://user-images.githubusercontent.com/114457985/215334147-16b282b6-99f1-4609-a48c-159794dabf41.png)
-![image](https://user-images.githubusercontent.com/114457985/215334193-75d9be4c-bb01-4b26-ae32-a36164df53d8.png)
+![Uploading image.png…]()
+
+
 
 - Semakin banyak total principal received/ total pokok hutang yang telah dibayarkan customer, proporsi keberhasilan pembayarannya juga cenderung tinggi dibandingkan total pokok hutang yang nominalnya lebih kecil. 
 - Semakin besar interest rate atau bunga pinjaman, nasabah cenderung mengalami kesulitan bayar. Terlihat dari proporsi keberhasilan pembayaran, dimana bunga pinjaman lebih dari 22% proporsi nasabah mengalami kesulitan bayar lebih dari 20%.
