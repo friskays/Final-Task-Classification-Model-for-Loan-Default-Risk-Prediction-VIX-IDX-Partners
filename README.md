@@ -22,8 +22,10 @@ Objective :
 
 
 - Semakin banyak total principal received/ total pokok hutang yang telah dibayarkan customer, proporsi keberhasilan pembayarannya juga cenderung tinggi dibandingkan total pokok hutang yang nominalnya lebih kecil. 
-- Semakin besar interest rate atau bunga pinjaman, nasabah cenderung mengalami kesulitan bayar. Terlihat dari proporsi keberhasilan pembayaran, dimana bunga pinjaman lebih dari 22% proporsi nasabah mengalami kesulitan bayar lebih dari 20%.
-- Nasabah yang melakukan pengajuan pinjaman dana dengan tujuan produktif, proporsi mengalami kesulitan bayar cenderung lebih tinggi dibandingkan dengan tujuan multiguna (kebutuhan konsumtif). Oleh karena itu untuk dapat dianalisis jenis bisnisnya, agar diketahui jenis bisnis seperti apa yang dimiliki nasabah yang berpotensi mengalami kesulitan pembayaran hutang-pihutang.
+- Semakin besar interest rate atau bunga pinjaman, customer cenderung mengalami kesulitan bayar. Terlihat dari proporsi keberhasilan pembayaran. Dimana bunga pinjaman lebih dari 22%, proporsi customer mengalami kesulitan bayar lebih dari 20%.
+- Customer yang melakukan pengajuan pinjaman dana dengan tujuan produktif, proporsi mengalami kesulitan bayar cenderung lebih tinggi dibandingkan dengan tujuan multiguna (kebutuhan konsumtif). 
+Oleh karena itu perlu dilakukan analisis terhadap jenis bisnis customer, agar diketahui jenis bisnis seperti apa yang memiliki potensi  mengakibatkan customer mengalami kesulitan pembayaran credit.
+
 
 
 # Modeling
@@ -34,4 +36,5 @@ Objective :
 - Final Result yang didapatkan dengan mengimplemantasikan pada Data Test didapatkan hasil 
 AUC = 0.940 atau 94%, Gini = 0.880 atau 88.8% dan KS=0.884 atau 88.4%
 
-![image](https://user-images.githubusercontent.com/114457985/215334284-0bb1e2e4-8d1b-4a58-a060-8e9e3d899f00.png)
+![image](https://user-images.githubusercontent.com/114457985/215339034-031e7749-d011-46ed-9312-333e68022676.png)
+
