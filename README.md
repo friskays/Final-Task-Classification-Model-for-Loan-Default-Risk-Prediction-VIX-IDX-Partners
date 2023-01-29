@@ -16,8 +16,8 @@ Objective :
 
 
 # Top Insight 
-![image](https://user-images.githubusercontent.com/114457985/215334503-0711babe-125f-4cc4-a460-8e95dbd0c03c.png)
-![image](https://user-images.githubusercontent.com/114457985/215334520-15eb257d-5206-4bf1-a6a1-3f52bea09f61.png)
+![Picture1](https://user-images.githubusercontent.com/114457985/215334606-912fe3cc-578d-48dc-a946-0b82ac49454c.png)
+![gambar 2](https://user-images.githubusercontent.com/114457985/215334614-baaad8d2-685a-48ef-ac7e-b948a095eb36.png)
 
 
 - Semakin banyak total principal received/ total pokok hutang yang telah dibayarkan customer, proporsi keberhasilan pembayarannya juga cenderung tinggi dibandingkan total pokok hutang yang nominalnya lebih kecil. 
