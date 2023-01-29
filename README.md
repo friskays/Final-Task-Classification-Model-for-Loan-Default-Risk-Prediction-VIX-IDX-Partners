@@ -16,8 +16,8 @@ Objective :
 
 
 # Top Insight 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/114457985/215334503-0711babe-125f-4cc4-a460-8e95dbd0c03c.png)
+![image](https://user-images.githubusercontent.com/114457985/215334520-15eb257d-5206-4bf1-a6a1-3f52bea09f61.png)
 
 
 - Semakin banyak total principal received/ total pokok hutang yang telah dibayarkan customer, proporsi keberhasilan pembayarannya juga cenderung tinggi dibandingkan total pokok hutang yang nominalnya lebih kecil. 
@@ -34,6 +34,3 @@ Objective :
 AUC = 0.940 atau 94%, Gini = 0.880 atau 88.8% dan KS=0.884 atau 88.4%
 
 ![image](https://user-images.githubusercontent.com/114457985/215334284-0bb1e2e4-8d1b-4a58-a060-8e9e3d899f00.png)
-
-Feature Importance
-![image](https://user-images.githubusercontent.com/114457985/215334318-faefdfad-9e33-41b8-84d6-820d715e6a7d.png)
