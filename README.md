@@ -1,7 +1,7 @@
 # Final-Task-Classification-Model-for-Loan-Default-Risk-Prediction-VIX-IDX-Partners
 
 Project ini merupakan Final Task Virtual Internship Program - Data Scientist di ID/X Partners.
-Final Task ini bertujuan membangun model yang dapat memprediksi credit risk menggunakan dataset yang terdiri dari data pinjaman yang diterima dan yang ditolak.
+Final Task ini bertujuan membangun model yang dapat memprediksi credit risk menggunakan sample dataset yang terdiri dari data pinjaman yang diterima dan yang ditolak.
 
 # Problem Statement
 
